@@ -17,7 +17,7 @@ class _MarkdownViewState extends State<MarkdownView> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "info",
+          "Инструкция",
           style: Theme.of(context)
               .textTheme
               .headlineMedium
